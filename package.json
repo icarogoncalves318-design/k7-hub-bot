@@ -1,0 +1,17 @@
+{
+  "name": "k7-hub-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord K7 Hub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
